@@ -4,6 +4,8 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+import trial.spring.framework.bean.Message;
+
 /**
  * Hello world!
  *

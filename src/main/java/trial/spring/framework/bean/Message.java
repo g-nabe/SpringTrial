@@ -1,4 +1,4 @@
-package trial.spring.framework.without;
+package trial.spring.framework.bean;
 
 public class Message {
 
@@ -11,4 +11,10 @@ public class Message {
 	public void setMessage(String message) {
 		this.message = message;
 	}
+
+	@Override
+	public String toString() {
+		return "message=" + message;
+	}
+
 }

@@ -1,5 +1,7 @@
 package trial.spring.framework.without;
 
+import trial.spring.framework.bean.Message;
+
 /**
  * Hello world!
  *
